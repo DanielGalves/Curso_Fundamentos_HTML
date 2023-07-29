@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatação HTML</title>
+    </head>
+    <body>
+        <h1>Aula 7 - Citação</h1>
+        <blockquote cite="https://www.google.com.br">Ser ou não ser, eis a questão </blockquote>       
+    </body>
+</html>
